@@ -4,7 +4,7 @@ Welcome to my Todo Application built using Flutter and Dart. This app provides a
 
 
 
-![image](https://github.com/akshat598/todo_flutter_application/assets/97584314/ac5aafae-51a6-460e-8190-8409a591d629) ![image](https://github.com/akshat598/todo_flutter_application/assets/97584314/e3388267-1bb7-4649-8ef3-afa56b2dac8c)
+![image](https://github.com/akshat598/todo_flutter_application/assets/97584314/ac5aafae-51a6-460e-8190-8409a591d629) ![image](https://github.com/akshat598/todo_flutter_application/assets/97584314/4c36f100-6b06-4110-bdec-da0959e45c3e)
 
 
 
