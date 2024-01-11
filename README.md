@@ -1,6 +1,6 @@
 # todo_firebase
 
-A new Flutter project.
+Welcome to my Todo Application built using Flutter and Dart. This app provides a simple and efficient way to manage your tasks. The user-friendly interface includes a Sign In/Sign Up page for personalized access, a task creation page to add new to-dos, and a comprehensive list view of all tasks. Powered by Firebase, your tasks are securely stored in the cloud, ensuring seamless access across devices. Dive into productivity with this intuitive and customizable Todo app!
 
 ## Getting Started
 
